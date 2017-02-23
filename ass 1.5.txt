@@ -1,0 +1,35 @@
+ 1.Hadoop in layman's term:
+
+          * Hadoop is an open-source,java based framework.
+          * It provides a reliable & a scalable platform for storage and processing.
+          * The key component's involved are:
+                                 a.HDFS
+                                 b.Map Reduce
+                                   
+         *The 2 key concept's are:
+                                  a.Storage
+                                  b.Processing
+
+2. Components of Hadoop framework:
+
+          The 2 main component's of Hadoop are,
+
+    a.HDFS - * Abbrevated as Hadoop distributed file system 
+             *It is used for mass storage of data and results.
+
+    b.Map Reduce - *It is a framework which is used for the processings that includes the analysis of data.
+                   *It can be further divided as
+                                                $Pig
+                                                $Hive
+
+3. Reasons to learn Big data technologies:
+
+     =>Business Reasons:
+
+           * With the new style of IT emerging,the amount of data generated are huge.
+           * Inorder to support/store such huge amounts of data efficiently,there is a need for technologies like bigdata. 
+
+     =>Personal Reasons:
+
+           *The demand for Big Data skills is extremely high.
+           *The average payscale of professionals with Big Data expertise is comparitively very high.
